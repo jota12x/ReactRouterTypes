@@ -1,3 +1,4 @@
+Study session 1 - Client navigation and Router types in React
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

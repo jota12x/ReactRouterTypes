@@ -4,7 +4,7 @@ import history from "../history";
 
 const UrlBar = ({ url, routerType }) => {
   history.listen((location) => {
-    console.log("Location has changed");
+    console.log("Location has changed 2");
   });
   return (
     <Container
